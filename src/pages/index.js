@@ -6,6 +6,7 @@ const IndexPage = () => (
     <h1>Hi people</h1>
     <p>Welcome to your new Gatsby site.</p>
     <p>Hi This is me , <b>Ali</b> .Its my first time for being acting as a candidate for a HAckathon in U.S.</p>
+    <p>I also applied to the JAMstack hello world hackathon</p>
     <Link to="/page-2/">Go to page 2</Link>
   </div>
 )
