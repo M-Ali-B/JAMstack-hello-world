@@ -11,9 +11,9 @@ const IndexPage = () => (
 
 <h2>How to Push changes in my code to be visible at domain</h2>
 <ol>
-<li>Commit stage or unstage changes via VS code</li>
-<li>git push origin master</li>
-<li><code>gatsby build</code>on terminal</li>
+<li>Commit changes via VS code</li>
+<li>run <code>git push origin master</code></li>
+<li>run <code>gatsby build</code>on terminal</li>
 
 </ol>
     <Link to="/page-2/">Go to page 2</Link>
